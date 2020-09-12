@@ -43,7 +43,12 @@ h1:hover {
     
 }
 
-
+.bottom-container {
+    background-color:  #87CEEB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
 
 .top-cloud {
     position: absolute;
@@ -88,4 +93,8 @@ h1:hover {
 
 .profile {
     margin-top: 30px;
+}
+
+.btn {
+    font-size: 20px;
 }
